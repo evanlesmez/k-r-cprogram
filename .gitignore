@@ -1,0 +1,3 @@
+problems/*
+!problems/*.c
+!problems/*.cpp
