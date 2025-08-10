@@ -4,4 +4,4 @@
 
 pg. 15 has the table of printf formatting  
 
-Checkpoint 1.5.4
+checkpoint pg. 25
