@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Print a histogram of the lengths of words in its input
+// Write a program to print a histogram of the frequencies of different characters in its input.
 
 int main() {
     unsigned int c,i, nwhite;
