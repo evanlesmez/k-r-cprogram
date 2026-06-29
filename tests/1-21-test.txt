@@ -1,0 +1,8 @@
+x       y
+a    b
+ab  cd
+one space x
+1  2   3    4
+        deep indent
+trailing spaces here       
+nospaces
